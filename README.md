@@ -369,3 +369,4 @@ Authors and contributors are listed in the [AUTHORS.txt][8] file.
 [8]: https://github.com/highlightjs/highlight.js/blob/master/AUTHORS.txt
 [9]: https://github.com/highlightjs/highlight.js/blob/master/SUPPORTED_LANGUAGES.md
 [10]: https://github.com/highlightjs/
+#1
